@@ -1,3 +1,3 @@
 ## Frederick Wright
 he/him
-Graduate Developer at (ScottLogic)[https://github.com/ScottLogic].
+Graduate Developer at [https://github.com/ScottLogic](ScottLogic).
